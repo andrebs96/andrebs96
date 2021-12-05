@@ -2,7 +2,7 @@
 
 I'm from brazilian (🇧🇷). I've been working as Front-End Developer since 2017.
 
-In my free time I like to play (and watch) soccer (⚽️) and basketball (🏀), to listen, create and discuss about rap (🎵).
+In my free time I like to play (and watch) soccer (⚽️) and basketball (🏀).
 
 ## Find me
 
